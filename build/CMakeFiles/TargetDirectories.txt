@@ -1,0 +1,8 @@
+/home/carol/jtx2inst/build/CMakeFiles/rebuild_cache.dir
+/home/carol/jtx2inst/build/CMakeFiles/edit_cache.dir
+/home/carol/jtx2inst/build/CMakeFiles/jtx1inst.dir
+/home/carol/jtx2inst/build/CMakeFiles/install.dir
+/home/carol/jtx2inst/build/CMakeFiles/list_install_components.dir
+/home/carol/jtx2inst/build/CMakeFiles/jtx1inst_demo.dir
+/home/carol/jtx2inst/build/CMakeFiles/install/strip.dir
+/home/carol/jtx2inst/build/CMakeFiles/install/local.dir

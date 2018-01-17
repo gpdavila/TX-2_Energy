@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/jtx1inst.h
+jtx1var.h
+../include/jtx1var.h
+jtx1pow.h
+../include/jtx1pow.h
+jtx1temp.h
+../include/jtx1temp.h
+jtx1rate.h
+../include/jtx1rate.h
+
+../include/jtx1pow.h
+
+../include/jtx1rate.h
+
+../include/jtx1temp.h
+
+../include/jtx1var.h
+
+/home/carol/jtx2inst/samples/jtx1inst_demo.c
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+fcntl.h
+-
+errno.h
+-
+stdlib.h
+-
+jtx1inst.h
+/home/carol/jtx2inst/samples/jtx1inst.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC  -std=c11 -O3 -Wall  -shared -Wl,-soname,libjtx1inst.so -o libjtx1inst.so CMakeFiles/jtx1inst.dir/src/jtx1temp.c.o CMakeFiles/jtx1inst.dir/src/jtx1pow.c.o CMakeFiles/jtx1inst.dir/src/jtx1rate.c.o 

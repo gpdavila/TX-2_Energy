@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=c11 -O3 -Wall   CMakeFiles/jtx1inst_demo.dir/samples/jtx1inst_demo.c.o  -o jtx1inst_demo -rdynamic libjtx1inst.so -Wl,-rpath,/home/carol/jtx2inst/build 
