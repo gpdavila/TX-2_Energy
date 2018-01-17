@@ -7,7 +7,6 @@
 #define JTX1INST_H_
 
 #include "jtx1var.h"
-
 #include "jtx1pow.h"
 #include "jtx1temp.h"
 #include "jtx1rate.h"

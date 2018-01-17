@@ -5,6 +5,7 @@
 #include <errno.h>
 #include <stdlib.h>
 
+
 #include "jtx1inst.h"
 
 int main(void)
@@ -126,7 +127,7 @@ int main(void)
     printf("[TEMPERATURE] FAN: %dmC\n", val);
 
     printf("\n");
-
+/*
     jtx1_get_rate(EMC_RATE, &rate);
     printf("[FREQ] EMC: %luHz\n", rate);
     jtx1_get_rate(GPU_RATE, &rate);

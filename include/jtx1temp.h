@@ -8,7 +8,8 @@
 #define JTX1TEMP_H_
 
 #define MAX_BUFF 128
-#define SYSFS_TEMP_PATH "/sys/class/thermal"
+//#define SYSFS_TEMP_PATH "/sys/class/thermal"	// TX1
+#define SYSFS_TEMP_PATH "/sys/devices/virtual/thermal" // TX2
 
 /**
  * @brief Thermal zones index
